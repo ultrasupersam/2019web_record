@@ -9,3 +9,5 @@ https://github.com/davidgrcias/videorecorder
 ssh-add privatekey
 ssh-keyscan github.com >> ~/.ssh/known_hosts
 $ ssh -T git@github.com
+
+Audio is not working.
